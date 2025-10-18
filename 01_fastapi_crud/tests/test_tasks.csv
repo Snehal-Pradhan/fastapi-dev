@@ -1,0 +1,8 @@
+id,title,description,status,due_date
+1,Finish report,Complete the quarterly report,pending,2025-10-20
+2,Team meeting,,done,2025-10-18
+3,Update website,Add new product info,pending,
+4,Client follow-up,Call client about feedback,done,2025-10-19
+5,Plan workshop,,pending,2025-10-25
+6,Code review,Review PR #42,pending,
+7,Write blog post,Introduction to FastAPI,done,2025-10-28
